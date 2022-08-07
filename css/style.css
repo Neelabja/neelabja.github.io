@@ -310,8 +310,13 @@ a:focus {
   display: flex;
   justify-content: center;
   align-items: center;
+<<<<<<< Updated upstream
   width: 205px;
   height: 225px;
+=======
+  width: 195px;
+  height: 195px;
+>>>>>>> Stashed changes
   border-radius: 90px;
   background-color: #aeaeae;
 
