@@ -313,9 +313,12 @@ a:focus {
 <<<<<<< Updated upstream
   width: 205px;
   height: 225px;
+<<<<<<< Updated upstream
 =======
   width: 195px;
   height: 195px;
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   border-radius: 90px;
   background-color: #aeaeae;
@@ -451,11 +454,12 @@ a:focus {
   
 }
 
-.info_section .col-md-4 {
-  padding: 0 40px;
-  left: 33%
-  
+.info_section .col-md-4{
+  padding: 0 20px;
+  left: 50%;
+  transform:translateX(-50%)
 }
+
 
 .info_section .col-md-4 h5 {
   text-transform: uppercase;
