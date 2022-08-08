@@ -535,4 +535,11 @@ nav div ul li a.active{
 
 }
 
+<<<<<<< Updated upstream
 
+=======
+.modal-content{
+	background: transparent !important;
+	border: none !important;
+}
+>>>>>>> Stashed changes
